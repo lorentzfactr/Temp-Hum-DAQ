@@ -5,6 +5,11 @@ the PIR sensor detects motion. It has the ability to know if the wake up was due
 input. It reports the data to IFTTT and IFTTT creates a new row in a spread sheet with the following info in each cell:
 Day/Time, Event Name, Humidity, Temperature, Motion?
 
+For help:
+https://discord.gg/BSAqkMFRAV
+
+twitch.tv/lorentzfactr
+
 
 With borrowed code from:
 https://github.com/MKme/ESP8266-WIFI-Humidity-Monitor
