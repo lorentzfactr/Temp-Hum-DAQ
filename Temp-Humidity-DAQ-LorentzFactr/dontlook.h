@@ -12,7 +12,21 @@
 
 
 
-const char host[ ]        = "maker.ifttt.com";                // maker channel of IFTTT
-const char* ssid          = "YOUR WIFI NETWORK";              // SSID of local network---------------------USER Input here
-const char* password      = "YOUR WIFIPASSWORD";              // Password on network -----------------------------------------------------
-const char APIKey[ ]      = "YOUR WEBHOOK API KEY";           //Your maker key for Webhooks on IFTTT-----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const char host[ ]        = "192.168.x.x";         // your local host server
+const char* ssid          = "";                    // SSID of local network---------------------USER Input here
+const char* password      = "";                    // Password on network -----------------------------------------------------
